@@ -757,3 +757,6 @@ header#mainheader h1 {
     float: none;
   }
 }
+.navbar-wrapper {
+  background-color: #002e6d;
+}
